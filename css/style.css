@@ -1,0 +1,48 @@
+.header{
+    width: 80%;
+    float: right;
+}
+.header nav{
+    width: 85%;
+}
+.serach-field{
+    background-color: rgba(233, 230, 230, 0.842);
+    width: 100%;
+    border-radius: 5px;
+}
+.side-bar{
+    width: 20%;
+    height: 100vh;
+}
+.logo{
+    width: 90%;
+}
+.side-nav{
+    font-size: 20px;
+    font-weight: 600;
+    /* font-family: ; */
+    cursor: pointer;
+}
+.side-nav p:hover{
+    cursor: pointer;
+}
+.slider{
+    width: 70%;
+    float: right;
+    margin-top: -510px;
+    align-items: center;
+    margin-left: 100px;
+}
+.profile{
+    width: 170px;
+    height: 40px;
+}
+.profile-img{
+    width: 27%;
+}
+.backColor{
+    background-color: rgba(233, 230, 230, 0.842);
+    margin-left: 4px;
+    border-radius: 2px;
+    padding: 0 5px;
+}
